@@ -15,6 +15,10 @@
 
 ถ้าเป็น DHT11 ตัวเปล่า 4 ขา (ไม่ใช่โมดูล) ให้ใส่ตัวต้านทาน 10k ระหว่าง DATA กับ 3V3
 
+### 🛒 ซื้ออุปกรณ์
+
+- เซนเซอร์ DHT11: [Globalbyte — DHT11 Sensor for Arduino / ESP32](https://globalbyteshop.com/products/dht11-sensor-for-arduino-esp32)
+
 ## ติดตั้ง
 
 1. Arduino IDE → Library Manager ลง **DHT sensor library** (Adafruit) และ **Adafruit Unified Sensor**
